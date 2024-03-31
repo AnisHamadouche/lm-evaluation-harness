@@ -1,7 +1,7 @@
 task: isllm
 group: 
   - multiple_choice
-dataset_path: isllmevaldata00001/isllmevaldata00001.json
+dataset_path: aham225/isllmevaldata00001
 dataset_name: null
 output_type: multiple_choice
 training_split: train
