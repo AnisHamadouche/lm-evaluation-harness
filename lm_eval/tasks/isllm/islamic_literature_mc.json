@@ -1,0 +1,30 @@
+{
+    "data": [
+      {
+        "query": "Who was the last prophet in Islam?",
+        "choices": ["Moses", "Jesus", "Mohammad", "Abraham"],
+        "label": 2
+      },
+      {
+        "query": "What is the holy book of Islam?",
+        "choices": ["Bible", "Torah", "Quran", "Vedas"],
+        "label": 2
+      },
+      {
+        "query": "Which city is considered the holiest city in Islam?",
+        "choices": ["Jerusalem", "Mecca", "Medina", "Istanbul"],
+        "label": 1
+      },
+      {
+        "query": "What does 'Islam' literally mean?",
+        "choices": ["Peace", "Faith", "Submission to God", "Charity"],
+        "label": 2
+      },
+      {
+        "query": "How many pillars of Islam are there?",
+        "choices": ["3", "4", "5", "6"],
+        "label": 2
+      }
+    ]
+  }
+  
