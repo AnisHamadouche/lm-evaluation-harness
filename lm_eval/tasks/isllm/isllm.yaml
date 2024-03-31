@@ -1,4 +1,4 @@
-task: IslamicLiteratureMC
+task: isllm
 group: 
   - multiple_choice
 dataset_path: ./islamic_literature_mc.json
